@@ -1,0 +1,5 @@
+1) yahoo_finance 
+2) matplotlib 
+3) numpy 
+4) pandas
+5) sklearn
